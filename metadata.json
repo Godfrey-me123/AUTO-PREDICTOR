@@ -1,0 +1,6 @@
+{
+  "name": "Screen Earner",
+  "description": "Always-on-top floating Android game automation controller & overlay utility for Aviator / BetPawa / SportyBet with smart OCR/accessibility detection, customizable bet & cashout floating shortcuts, strategies, and risk controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

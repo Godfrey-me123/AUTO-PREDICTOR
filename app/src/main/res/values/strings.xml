@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Earner</string>
+    <string name="accessibility_service_desc">Screen Earner Accessibility Service monitors Aviator game states (BetPawa / SportyBet) and executes automated clicks on your configured targets when triggers are active.</string>
+</resources>
